@@ -34,7 +34,7 @@ A machine learning framework for **multi-drug use prediction** using optimised c
 
 ## Overview
 
-Drug-related classification remains challenging because biomedical and behavioural data are often heterogeneous, high-dimensional, and difficult to model with default machine learning settings. This project presents a structured framework that combines preprocessing, exploratory analysis, hyperparameter tuning, and ensemble learning to improve prediction performance across multiple drug categories. :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
+Drug-related classification remains challenging because biomedical and behavioural data are often heterogeneous, high-dimensional, and difficult to model with default machine learning settings. This project presents a structured framework that combines preprocessing, exploratory analysis, hyperparameter tuning, and ensemble learning to improve prediction performance across multiple drug categories. 
 
 The study investigates prediction performance for ten substances:
 
@@ -74,7 +74,7 @@ Six baseline models and one ensemble strategy were explored:
 
 ## Abstract
 
-This study addresses the limitations of baseline machine learning models in multi-drug use prediction by applying targeted optimisation and ensemble learning. Six classical machine learning algorithms were evaluated across ten substance categories using accuracy, precision, recall, and F1-score. After preprocessing, feature engineering, and hyperparameter tuning, model performance improved substantially. Random Forest consistently delivered the strongest results across most categories, while the hybrid voting ensemble performed especially well on harder-to-classify classes such as Heroin and Caffeine. These findings show that carefully tuned classical methods can provide a practical and scalable approach for robust drug-related classification. :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}
+This study addresses the limitations of baseline machine learning models in multi-drug use prediction by applying targeted optimisation and ensemble learning. Six classical machine learning algorithms were evaluated across ten substance categories using accuracy, precision, recall, and F1-score. After preprocessing, feature engineering, and hyperparameter tuning, model performance improved substantially. Random Forest consistently delivered the strongest results across most categories, while the hybrid voting ensemble performed especially well on harder-to-classify classes such as Heroin and Caffeine. These findings show that carefully tuned classical methods can provide a practical and scalable approach for robust drug-related classification. 
 
 ---
 
@@ -129,7 +129,7 @@ The following models were included in the study:
 - Random Forest
 - Hybrid Hard Voting Ensemble
 
-Among these, **Random Forest** consistently achieved the strongest overall performance, while the **hybrid voting ensemble** improved prediction for more difficult substance classes. :contentReference[oaicite:9]{index=9} :contentReference[oaicite:10]{index=10}
+Among these, **Random Forest** consistently achieved the strongest overall performance, while the **hybrid voting ensemble** improved prediction for more difficult substance classes. 
 
 ---
 
