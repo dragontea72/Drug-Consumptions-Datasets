@@ -141,7 +141,6 @@ Among these, **Random Forest** consistently achieved the strongest overall perfo
 - Hyperparameter tuning significantly improved predictive strength.
 - The **hybrid voting ensemble** outperformed individual classifiers on difficult categories such as **Heroin** and **Caffeine**.
 - Retraining and optimisation improved confusion matrix outcomes across all ten drug categories.
-- 
 ---
 
 ## Statistical Analysis
